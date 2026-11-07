@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Office temporary files
+~$*
+.~lock.*
+
+# CAD temporary/backup files
+~$*.SLD*
+*.bak
+*.tmp
+
+# Editor
+.vscode/
+.idea/
